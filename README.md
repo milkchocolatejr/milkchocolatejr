@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @milkchocolatejr. My real name is Alexander Williams!
 - 👀 I’m interested in becoming really good at Software Engineering; after all, I am in college for it.
-- 🌱 I’m currently learning more complex and creative ways to use Java and C#.
+- 🌱 I’m currently learning more complex and creative ways to use Java and C#; and implementing my findings as a lead software engineer at OjaExpress.
 - 💞️ I’m looking to collaborate on any projects that will help me learn!
 - 📫 How to reach me: E-Mail: alexanderwilliams29@gmail.com | Socials: www.linktr.ee/milkchocolatejr
 
