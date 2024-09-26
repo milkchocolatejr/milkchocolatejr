@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @milkchocolatejr. My real name is Alexander Williams Jr. (AJ for short)!</h1>
+<h1 align="center">Hi 👋, my name is Alexander Williams Jr. (AJ for short)!</h1>
 <h3 align="center">A driven Full-Stack Software Engineer from Chicago</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milkchocolatejr&label=Profile%20views&color=0e75b6&style=flat" alt="milkchocolatejr" /> </p>
