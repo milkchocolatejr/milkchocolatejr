@@ -5,15 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milkchocolatejr" alt="milkchocolatejr" /></a> </p>
 
-- 🌱 I’m currently learning **about bitwise operations, assembly, and machine learning!**
+- 🌱 I’m currently learning **about machine organization, languages and automata, and machine learning!**
 
-- 💬 Ask me about **ASP .NET MVC, REST API, and SAAS**
+- 💬 Ask me abou: **ASP .NET MVC, REST API, and SaAS**
 
-- 📫 How to reach me **alexanderwilliams29@gmail.com**
+- 📫 How to reach me: **alexanderwilliams29@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1IJL7Dj2vOsPycD1nT_zptNdBKxg6qynt/edit?usp=drive_link&ouid=109713485401527212170&rtpof=true&sd=true](https://docs.google.com/document/d/1IJL7Dj2vOsPycD1nT_zptNdBKxg6qynt/edit?usp=drive_link&ouid=109713485401527212170&rtpof=true&sd=true)
+- 📄 Know about my experiences: [https://docs.google.com/document/d/1IJL7Dj2vOsPycD1nT_zptNdBKxg6qynt/edit?usp=drive_link&ouid=109713485401527212170&rtpof=true&sd=true](https://docs.google.com/document/d/1IJL7Dj2vOsPycD1nT_zptNdBKxg6qynt/edit?usp=drive_link&ouid=109713485401527212170&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I am a former triathlete**
+- ⚡ Fun fact: **I am a former triathlete**
+
+- About me: 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
