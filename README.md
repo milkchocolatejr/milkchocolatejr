@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm @milkchocolatejr. My real name is Alexander Williams Jr. (AJ for short)!</h1>
-<h3 align="center">A driven Full-Stack Software Engineer from Chicago</h3>
+<h3 align="center">A Driven Full-Stack Software Engineer from Chicago</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milkchocolatejr&label=Profile%20views&color=0e75b6&style=flat" alt="milkchocolatejr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milkchocolatejr" alt="milkchocolatejr" /></a> </p>
 
-- 🌱 I’m currently learning **about machine organization, languages and automata, and machine learning!**
+- 🌱 I’m currently learning about **XML rendering, concurrency principles, and agentic AI!**
 
-- 💬 Ask me abou: **ASP .NET MVC, REST API, and SaAS**
+- 💬 Ask me abou: **ASP .NET MVC, REST API, and SaaS modeling**
 
 - 📫 How to reach me: **alexanderwilliams29@gmail.com**
 
-- 📄 Know about my experiences: [https://docs.google.com/document/d/1IJL7Dj2vOsPycD1nT_zptNdBKxg6qynt/edit?usp=drive_link&ouid=109713485401527212170&rtpof=true&sd=true](https://docs.google.com/document/d/1IJL7Dj2vOsPycD1nT_zptNdBKxg6qynt/edit?usp=drive_link&ouid=109713485401527212170&rtpof=true&sd=true)
+- 📄 Know about my experiences: [[https://docs.google.com/document/d/1IJL7Dj2vOsPycD1nT_zptNdBKxg6qynt/edit?usp=drive_link&ouid=109713485401527212170&rtpof=true&sd=true](https://docs.google.com/document/d/1IJL7Dj2vOsPycD1nT_zptNdBKxg6qynt/edit?usp=drive_link&ouid=109713485401527212170&rtpof=true&sd=true)](https://docs.google.com/document/d/1t8Xk_puzTwdEc0aEx1cdO1OCy2BFRwVL/edit?usp=sharing&ouid=103908262069390363394&rtpof=true&sd=true)
 
 - ⚡ Fun fact: **I am a former triathlete**
 
