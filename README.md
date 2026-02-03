@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm @milkchocolatejr. My real name is Alexander Williams Jr. (AJ for short)!</h1>
 <h3 align="center">A Driven Full-Stack Software Engineer from Chicago</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=milkchocolatejr&label=Profile%20views&color=0e75b6&style=flat" alt="milkchocolatejr" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milkchocolatejr" alt="milkchocolatejr" /></a> </p>
 
 - 🌱 I’m currently learning about **XML rendering, concurrency principles, and agentic AI!**
